@@ -4,7 +4,6 @@ Website profil sekolah modern dengan arsitektur monorepo (React + Express).
 
 ## Quick Start
 ```bash
-git clone <url>
 cd smk-teknologi-plus
 pnpm install
 cp backend/.env.example backend/.env
