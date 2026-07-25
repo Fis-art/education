@@ -1,0 +1,5 @@
+export { uploadRoutes } from './upload.routes'
+export { uploadController } from './upload.controller'
+export { uploadService } from './upload.service'
+export * from './upload.types'
+export * from './upload.validator'

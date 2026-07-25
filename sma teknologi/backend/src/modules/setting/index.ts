@@ -1,0 +1,6 @@
+export { settingRoutes } from './setting.routes'
+export { settingController } from './setting.controller'
+export { settingService } from './setting.service'
+export { settingRepository } from './setting.repository'
+export * from './setting.types'
+export * from './setting.validator'

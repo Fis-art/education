@@ -1,0 +1,11 @@
+# SMK Teknologi Plus - robots.txt
+User-agent: *
+Allow: /
+
+# Disallow admin routes
+Disallow: /admin/
+Disallow: /login
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://smktekplus.sch.id/sitemap.xml
